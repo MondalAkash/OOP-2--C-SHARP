@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="library">
+  <DataContextMoniker Name="/libraryDataContext" />
+  <nestedChildShapes>
+    <classShape Id="51c19de7-063e-49fc-99ec-1151784f2cda" absoluteBounds="1.375, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/libraryDataContext/Table" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f00580a2-626e-42c9-8c38-0b02ef320884" absoluteBounds="1.3900000000000001, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c719701-7d66-4183-8f52-1f773aa55b04" absoluteBounds="1.375, 2.5, 2, 2.5401025390625">
+      <DataClassMoniker Name="/libraryDataContext/userData" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9d389b64-50ff-4308-b9e3-51ed8ddd6724" absoluteBounds="1.3900000000000001, 2.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="73973fc9-9839-4be5-b991-33413b7ee5d6" absoluteBounds="3.5, 0.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/libraryDataContext/Information" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c35e3fc-97d4-4fc7-ba5b-f9bc3b2a9d58" absoluteBounds="3.515, 0.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ad55b1e0-03e6-4ef2-8325-c5ce617984f0" absoluteBounds="3.75, 3.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/libraryDataContext/Borrow" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e5ae7a55-6678-4019-8c6f-c05b55a7c576" absoluteBounds="3.7649999999999997, 3.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="12d0b104-11cd-4b80-95dc-c9cd1e0c741d" absoluteBounds="0.5, 1.25, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/libraryDataContext/Review" />
+      <nestedChildShapes>
+        <elementListCompartment Id="02a9ec62-dae0-48e5-aba7-722f1cf51ce2" absoluteBounds="0.515, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

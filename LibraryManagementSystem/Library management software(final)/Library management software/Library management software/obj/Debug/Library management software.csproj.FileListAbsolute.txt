@@ -1,0 +1,25 @@
+H:\C#\calc\Library management software\Library management software\bin\Debug\Library management software.exe.config
+H:\C#\calc\Library management software\Library management software\bin\Debug\Library management software.exe
+H:\C#\calc\Library management software\Library management software\bin\Debug\Library management software.pdb
+H:\C#\calc\Library management software\Library management software\bin\Debug\Bunifu_UI_v1.5.3.dll
+H:\C#\calc\Library management software\Library management software\obj\Debug\Library management software.csprojResolveAssemblyReference.cache
+H:\C#\calc\Library management software\Library management software\obj\Debug\Library_management_software.Form1.resources
+H:\C#\calc\Library management software\Library management software\obj\Debug\Library_management_software.Properties.Resources.resources
+H:\C#\calc\Library management software\Library management software\obj\Debug\Library management software.csproj.GenerateResource.Cache
+H:\C#\calc\Library management software\Library management software\obj\Debug\Library management software.exe
+H:\C#\calc\Library management software\Library management software\obj\Debug\Library management software.pdb
+H:\C#\calc\Library management software\Library management software\bin\Debug\datatable.mdf
+H:\C#\calc\Library management software\Library management software\bin\Debug\datatable_log.ldf
+H:\C#\calc\Library management software\Library management software\obj\Debug\Library_management_software.UserDashboard.resources
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\bin\Debug\datatable.mdf
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\bin\Debug\datatable_log.ldf
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\bin\Debug\Library management software.exe.config
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\bin\Debug\Library management software.exe
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\bin\Debug\Library management software.pdb
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\obj\Debug\Library management software.csprojResolveAssemblyReference.cache
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\obj\Debug\Library_management_software.UserDashboard.resources
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\obj\Debug\Library_management_software.Form1.resources
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\obj\Debug\Library_management_software.Properties.Resources.resources
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\obj\Debug\Library management software.csproj.GenerateResource.Cache
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\obj\Debug\Library management software.exe
+F:\C# project\LibraryManagementSystem\Library management software(final)\Library management software\Library management software\obj\Debug\Library management software.pdb

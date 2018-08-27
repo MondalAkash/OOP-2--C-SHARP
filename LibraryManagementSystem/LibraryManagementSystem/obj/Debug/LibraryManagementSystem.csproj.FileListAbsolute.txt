@@ -1,0 +1,22 @@
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\library.mdf
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\library_log.ldf
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form2.resources
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form3.resources
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form4.resources
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\datatable.mdf
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\datatable_log.ldf
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Library management software.exe
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Library management software.pdb
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+F:\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+F:\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+F:\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+F:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form5.resources
